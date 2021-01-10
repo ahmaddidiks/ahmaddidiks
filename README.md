@@ -1,5 +1,5 @@
-### Hi there 👋
-Robotics and maker
+### Robotics and makers
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmaddidiks)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
