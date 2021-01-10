@@ -1,7 +1,6 @@
 ### Robotics and makers
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmaddidiks&show_icons=true&theme=dark)](https://github.com/ahmaddidiks/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddidiks&show_icons=true&theme=dark)](https://github.com/ahmaddidiks/github-readme-stats)
 
 <!--
 **ahmaddidiks/ahmaddidiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
